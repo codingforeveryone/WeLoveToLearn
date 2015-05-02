@@ -1,5 +1,7 @@
 #We Love to Learn
 
+[![Join the chat at https://gitter.im/codingforeveryone/WeLoveToLearn](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/codingforeveryone/WeLoveToLearn?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ###Make a basic CMS
 
 This is one of a series of 3 beginner friendly projects for 24 Pull Requests: http://24pullrequests.com/.
